@@ -1,0 +1,9 @@
+The JOBS for which user can apply ::--->
+1. Frontend Developer
+2. Backened Developer ( who could increase the number of request per month )
+3. Event Organiser 
+    a. Senior Photographer
+    b. Award Distributor
+4. Data Analyser
+5. Photo Transformations Developer
+6. Website Activities
